@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Lovepreet Kapila
 
-<!--
-**Lovepreet-Kapila/Lovepreet-Kapila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Bioeconomy — University of Hohenheim  
+Machine Learning & Data Science Enthusiast  
+Focus: Bioeconomy, Enzyme Systems, Sustainable Tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Bioeconomy ML Models** | ML experiments & data analysis for bioeconomy datasets | Python, Pandas, Scikit-Learn, Jupyter |
+| *(Next)* Anomaly Detection in Sensor Data | Detect anomalies using Isolation Forest & One-Class SVM | Python, ML, Visualization |
+
+---
+
+### Skills
+- Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
+- Data Cleaning, EDA & Visualization
+- Jupyter Notebook, Git & GitHub
+- Research & Scientific Analysis (Bioeconomy & Enzyme Systems)
+
+---
+
+### Connect with me
+🔗 **LinkedIn:** *https://www.linkedin.com/in/lovepreet-kapila-40a6289b/*  
+📧 Email: *lovepreetkapila@gmail.com*
+
+---
+
+*"Learning and building — one project at a time."*
+
