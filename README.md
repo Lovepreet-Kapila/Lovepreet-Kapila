@@ -9,9 +9,12 @@ Focus: Bioeconomy, Enzyme Systems, Sustainable Tech
 ### Featured Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| **Bioeconomy ML Models** | ML experiments & data analysis for bioeconomy datasets | Python, Pandas, Scikit-Learn, Jupyter |
-| *(Next)* Anomaly Detection in Sensor Data | Detect anomalies using Isolation Forest & One-Class SVM | Python, ML, Visualization |
+| :--- | :--- | :--- |
+| `[date-fruit-classification](https://github.com/YourUsername/date-fruit-classification)` | Classifies 7 date species using SVM, Random Forest, & Decision Trees. Includes evaluation & feature importance analysis. | Python, Scikit-Learn, Pandas |
+| `[pumpkin-seed-classification](https://github.com/YourUsername/pumpkin-seed-classification)` | Classifies 2 pumpkin species (12 features) & uses PCA to visualize the high-dimensional decision boundaries. | Python, Scikit-Learn, PCA |
+| `[clustering-pca-demo](https://github.com/YourUsername/clustering-pca-demo)` | Compares KMeans (centroid-based) and DBSCAN (density-based) algorithms & uses PCA for 2D visualization. | Python, Scikit-Learn, DBSCAN |
+| `[anomaly-detection-demo](https://github.com/YourUsername/anomaly-detection-demo)` | Detects outliers using statistical methods (IQR, Z-Score) and ML models like Isolation Forest. | Python, NumPy, Seaborn |
+| `[bioeconomy-ml-models](https://github.com/YourUsername/bioeconomy-ml-models)` | My main repo for bioeconomy data analysis, including EDA, data cleaning (imputation), and baseline models. | Python, Pandas, Jupyter |
 
 ---
 
